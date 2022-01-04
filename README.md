@@ -36,4 +36,9 @@ PCA with scikit : https://scikit-learn.org/stable/modules/generated/sklearn.deco
 
 ## Variance explained ratio
 
+![image](https://user-images.githubusercontent.com/78567418/147996755-839efeed-d0fc-4820-a3d0-920fc305aada.png)
+
+## Dispertion diagram with histogram scaled x and y with data of PCA transform scale.
+
+![image](https://user-images.githubusercontent.com/78567418/147996791-8ce500c6-9177-4c2a-9681-6b050f5bec5f.png)
 
