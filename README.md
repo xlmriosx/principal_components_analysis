@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/78567418/147996265-d6bdec0a-9ad8-4439-bbc2-c1fdfe8d651f.png)
 
-## Covariance on function matrix covariance and a arbitrary vector
+## Variance on function matrix covariance and a arbitrary vector
 
 ![image](https://user-images.githubusercontent.com/78567418/147999587-772f73bd-045d-496d-880f-3e4b27cfed52.png)
 
